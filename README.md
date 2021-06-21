@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daria Aleksich and I live in Cologne.
 - 👀 I’m very interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Data Science during a super-intensive Data Science bootcamp at 🌶Spiced Academy🌶 in Berlin.
+- 🌱 I’m currently learning Data Science in a super-intensive Data Science bootcamp at 🌶Spiced Academy🌶 in Berlin.
 - 💞️ You can find my projects here separated by week.
 - 📫 How to reach me : dashnak90@ya.ru 
 
