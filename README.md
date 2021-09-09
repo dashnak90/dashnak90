@@ -1,6 +1,6 @@
 # About me:
 - 👋 Hi, I am Daria Aleksich and I live in Cologne.
-- 💞️ I am an aspiring Data Scientist with background in business and operations management, passionate about Data and how to convert it to be useful to others.
+- 💞️ I am ambitious Data Scientist with background in business and operations management, excited about using Data and Technology to drive positive change, add value, and accelerate innovation.
 - 💪🏻 I am trained in Python and SQL for data handling, data visualization and predictive modeling, as well as in AWS and Docker for data engineering and architecture.
 - 🌱 I recently graduated from a super-intensive Data Science Program by 🌶Spiced Academy🌶 in Berlin.
 - 👀 Now I am looking for further professional development opportunities in the Data Science field, ideally with partial Data Engineering responsibilities, because I particularly enjoy working on engineering projects, which I find the most technically challenging, but also the most interesting and intellectually satisfying.
